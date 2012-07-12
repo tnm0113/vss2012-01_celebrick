@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">CeleBrickv2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_cele_brickv2">CeleBrickv2</string>
+
+</resources>
